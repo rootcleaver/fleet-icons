@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#1E1B4B"/>
+  <g fill="#F5C518">
+    <!-- 흉벽 -->
+    <path d="M56 96 h20 v-20 h20 v20 h20 v-20 h20 v20 h20 v-20 h20 v20 h20 v24 H56z"/>
+    <!-- 본체 -->
+    <rect x="56" y="118" width="144" height="86" rx="4"/>
+    <!-- 탑 두 개 -->
+    <rect x="40" y="112" width="26" height="92" rx="3"/>
+    <rect x="190" y="112" width="26" height="92" rx="3"/>
+  </g>
+  <!-- 성문 -->
+  <path d="M110 204 v-42 a18 18 0 0 1 36 0 v42z" fill="#1E1B4B"/>
+</svg>

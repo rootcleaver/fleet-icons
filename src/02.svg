@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#18181B"/>
+  <!-- 자루 -->
+  <path d="M122 52 h24 v172 h-24z" fill="#A16207"/>
+  <!-- 도끼머리: 자루 왼쪽으로 넓게 뻗은 날 -->
+  <path d="M146 48 L146 140 L74 128 C46 122 44 74 74 62 Z" fill="#F59E0B"/>
+  <!-- 날끝 밝은 면 -->
+  <path d="M74 62 C44 74 46 122 74 128 L74 62 Z" fill="#FDE68A"/>
+  <!-- 자루 오른쪽 폴(뒤통수) -->
+  <path d="M146 62 h30 v56 h-30z" fill="#D97706"/>
+</svg>

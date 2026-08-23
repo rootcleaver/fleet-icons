@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#14532D"/>
+  <!-- 줄기: 채움 -->
+  <path d="M120 216 h16 V96 h-16z" fill="#86EFAC"/>
+  <!-- 왼잎 -->
+  <path d="M120 150 c-56 -4 -76 -34 -70 -66 c34 -6 68 14 70 66z" fill="#4ADE80"/>
+  <!-- 오른잎 -->
+  <path d="M136 128 c56 -10 74 -42 66 -74 c-34 -2 -66 20 -66 74z" fill="#BBF7D0"/>
+</svg>
