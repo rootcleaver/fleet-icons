@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#3B0764"/>
+  <g fill="#E9D5FF">
+    <!-- 관: 다섯 꼭지 -->
+    <path d="M46 84 l22 54 h120 l22 -54 l-34 30 l-24 -46 l-24 46 l-24 -46 l-24 46z"/>
+    <!-- 몸통 -->
+    <path d="M70 148 h116 l-10 44 H80z"/>
+    <!-- 받침 -->
+    <rect x="62" y="200" width="132" height="20" rx="6"/>
+  </g>
+  <!-- 꼭지 구슬 다섯 -->
+  <g fill="#C084FC">
+    <circle cx="46" cy="78" r="13"/>
+    <circle cx="87" cy="62" r="13"/>
+    <circle cx="128" cy="52" r="15"/>
+    <circle cx="169" cy="62" r="13"/>
+    <circle cx="210" cy="78" r="13"/>
+  </g>
+</svg>
