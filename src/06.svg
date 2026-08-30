@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#0B3A3F"/>
+  <!-- 고리 = loop. 위쪽에 «틈»을 둔다 — 한 바퀴 돌지만 닫히지는 않는다 -->
+  <circle cx="128" cy="128" r="72" fill="none" stroke="#7FE3D4" stroke-width="28"
+          stroke-linecap="round" stroke-dasharray="386 66" stroke-dashoffset="-306"/>
+  <!-- 가운데 점 = 자리 -->
+  <circle cx="128" cy="128" r="22" fill="#F2FBF9"/>
+</svg>
